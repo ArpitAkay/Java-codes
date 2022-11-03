@@ -1,0 +1,34 @@
+package package9_exceptionhandling;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class LearnException6 {
+	public static void main(String args[]) {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int i,j = 1,k = 0;
+		i = 8;
+		try {
+			System.out.print("Enter a number : ");
+			j = Integer.parseInt(br.readLine());
+			k = i + j;
+			if(k<10) {
+				throw new ArithmeticException();
+			}
+			System.out.println("Output is : " + k);
+		}
+		catch(IOException e) {
+			System.out.println(" jhigv " + e);
+		}
+		catch(ArithmeticException e) {
+			System.out.println("Cannot divide by zero " + e);
+		}
+		catch(Exception e) {
+			System.out.println("Unknown Exception");
+		}
+		finally {
+			System.out.println("Byee!!");
+		}
+	}
+}
