@@ -1,0 +1,9 @@
+name : Shravan Kumar
+mobile : 6890565432
+age : 22
+address.plotno : 46
+address.city : VNK City
+address.state : Andhra Pradesh
+address.pincode : 258903
+company.name : GeekyAnts
+company.address : Banglore

@@ -1,0 +1,10 @@
+name : Ayush Agarwal
+mobile : 6378453680
+age : 22
+address.plotno : 45
+address.city : Noida
+address.state : Uttar Pradesh
+address.pincode : 245678
+bankaccount.accountno : 12345678901234
+bankaccount.ifsc : HDFCND1234
+bankaccount.bankname : HDFC

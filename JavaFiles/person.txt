@@ -1,0 +1,7 @@
+name : Arpit Kumar
+mobile : 6397473087
+age : 22
+address.plotno : 43
+address.city : Kashipur
+address.state : Uttarakhand
+address.pincode : 244713
