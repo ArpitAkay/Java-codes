@@ -29,8 +29,9 @@ public class C62_schedule {
 	}
 
 	public static void main(String[] args) throws ParseException {
-		DateFormat dateFormatter = new SimpleDateFormat("yyyy-MMM-dd HH:mm:ss");
-	    Date date = dateFormatter.parse("2022-Nov-28 11:58:00.0");
+		DateFormat dateFormatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+//	    Date date = dateFormatter.parse("2022-Nov-28 11:58:00.0");
+	    Date date = dateFormatter.parse("2022-11-30 19:32:00.000000");
 		
 		System.out.println(date);
 		
