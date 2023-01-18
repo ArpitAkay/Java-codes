@@ -2,7 +2,7 @@ package org.example.database;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.Employee;
+import org.example.dto.Employee;
 
 import java.io.File;
 import java.io.IOException;
