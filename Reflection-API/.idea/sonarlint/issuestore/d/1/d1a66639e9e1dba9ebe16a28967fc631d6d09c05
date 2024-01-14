@@ -1,0 +1,9 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¯Ş‡¿8ÊÔúÌ1
+L	java:S106"+Replace this use of System.out by a logger.(ÓŠšùÿÿÿÿ8÷—ÕúÌ1
+G	java:S106!"+Replace this use of System.out by a logger.(ˆš›ˆ8ŞÖúÌ1
+L	java:S106%"+Replace this use of System.out by a logger.(¥ÌÌŒúÿÿÿÿ8ßÖúÌ1
+U
+java:S1144"9Remove this unused private "printUserInfoPrivate" method.(ø¯®U8Ö‰­úÌ1
+\
+java:S1144$"?Remove this unused private "printUserInfoPrivateStatic" method.(ïêÆó8„°úÌ1
