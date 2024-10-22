@@ -1,0 +1,13 @@
+
+J
+java:S1604/"(Make this anonymous inner class a lambda(Ú£æ»øÿÿÿÿ8§Ä­á1
+U
+java:S1854"8Remove this useless assignment to local variable "nums".(ŞéÈ8¶©á1
+F
+java:S1481")Remove this unused "nums" local variable.(ŞéÈ8·©á1
+]	java:S125"<This block of commented-out lines of code should be removed.(‹Æşäşÿÿÿÿ8¸©á1
+]	java:S125"<This block of commented-out lines of code should be removed.(†Šíşùÿÿÿÿ8¸©á1
+D
+java:S2201."'The return value of "get" must be used.(²Ñ£†8‹Ğ²á1
+G	java:S1062"+Replace this use of System.out by a logger.(ªù¾Õ8Ğ©á1
+L	java:S106C"+Replace this use of System.out by a logger.(»‰Ãÿÿÿÿÿ8¾Ä­á1
